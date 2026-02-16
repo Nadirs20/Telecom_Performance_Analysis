@@ -78,8 +78,4 @@ The goal is to showcase Tableau skills in creating user-friendly, interactive da
 
 ---
 
-## Contact
-**Data Science Academy**  
-Aşıq Alı 24, Nərimanov rayonu  
-+994 51 341 43 40  
-info@datascienceacademy.az
+
